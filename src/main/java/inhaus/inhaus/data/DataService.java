@@ -16,7 +16,7 @@ public class DataService {
     private static final String Board_URL = "https://portal.inha.ac.kr/p/00015/";
     // 테스트로 지금은 학사행정 부분 url을 넣어놨습니다.
     private static String ID = "12201702";
-    private static String PW = "kimmj010611!";
+    private static String PW = "1111";
     private static Map<String, String> TryCookies;
     private static Map<String, String> loginCookies;
     private static Map<String, String> Session = new HashMap<String, String>();
